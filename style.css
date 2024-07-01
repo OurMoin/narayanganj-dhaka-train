@@ -1,0 +1,62 @@
+.notice {
+    background-color: red;
+    color: white;
+    padding: 2.5px 0 5px 0;
+    font-weight: bold;
+}
+
+.roadTab {
+    background-color: #f8f8f9;
+    margin: 10px;
+    text-align: center;
+}
+
+.activeTab {
+    background-color: greenyellow;
+}
+
+.roadLink {
+    margin: 20px 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.ads {
+    width: 100%;
+    height: auto;
+}
+
+.days {
+    text-align: center;
+}
+
+.centertxt {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+
+td:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+    table-layout: fixed;
+  }
